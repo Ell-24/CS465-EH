@@ -1,4 +1,4 @@
-# CS465-EH# CS-465-EH
+# CS465-EH
 
 Architecture
 There were many types of frontend development tools and methods utilized within this project. MEAN stack was utilized and this meant 
